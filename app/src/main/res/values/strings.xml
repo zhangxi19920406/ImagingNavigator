@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImagingNavigator</string>
+    <string name="title_activity_map_based_view">Map</string>
+    <string name="hint_search_name">Choose your destination</string>
+    <string name="button_search">Search</string>
+    <string name="menu_settings">Settings</string>
+</resources>
